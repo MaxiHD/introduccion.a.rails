@@ -18,4 +18,4 @@ poder correr lo siguiente:
 $ rails --version
 ```
 
-Si dice algo como "Rails 3.2", estás listo para continuar.
+Si dice algo como "Rails 4.2", estás listo para continuar.
